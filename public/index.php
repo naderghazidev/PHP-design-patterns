@@ -1,10 +1,12 @@
 <?php
 
-declare(strict_types=1);
 
-use App\Memento\Memento;
+use App\State\State;
 
-require __DIR__.'/../vendor/autoload.php';
+require __DIR__ . '/../vendor/autoload.php';
 
 //$memento=new Memento();
 //$memento->run();
+
+//$state = new State();
+//$state->run();
