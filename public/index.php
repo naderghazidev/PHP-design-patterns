@@ -1,6 +1,7 @@
 <?php
 
 
+use App\Iterator\Iterator as IteratorPattern;
 use App\State\State;
 
 require __DIR__ . '/../vendor/autoload.php';
@@ -10,3 +11,6 @@ require __DIR__ . '/../vendor/autoload.php';
 
 //$state = new State();
 //$state->run();
+
+//$iterator = new IteratorPattern();
+//$iterator->run();
