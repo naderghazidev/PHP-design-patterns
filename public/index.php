@@ -1,8 +1,9 @@
 <?php
 
 
-use App\Iterator\Iterator as IteratorPattern;
+use App\Iterator\Iterator;
 use App\State\State;
+use App\Strategy\Strategy;
 
 require __DIR__ . '/../vendor/autoload.php';
 
@@ -12,5 +13,8 @@ require __DIR__ . '/../vendor/autoload.php';
 //$state = new State();
 //$state->run();
 
-//$iterator = new IteratorPattern();
+//$iterator = new Iterator();
 //$iterator->run();
+
+//$strategy = new Strategy();
+//$strategy->run();
