@@ -4,6 +4,7 @@
 use App\Iterator\Iterator;
 use App\State\State;
 use App\Strategy\Strategy;
+use App\TemplateMethod\TemplateMethod;
 
 require __DIR__ . '/../vendor/autoload.php';
 
@@ -18,3 +19,7 @@ require __DIR__ . '/../vendor/autoload.php';
 
 //$strategy = new Strategy();
 //$strategy->run();
+
+
+//$templateMethod=new TemplateMethod();
+//$templateMethod->run();
