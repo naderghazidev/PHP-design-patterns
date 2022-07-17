@@ -1,8 +1,6 @@
 <?php
 
 
-use App\Creational\Factory\Factory;
-
 require __DIR__ . '/../vendor/autoload.php';
 
 //$memento=new Memento();
@@ -24,3 +22,6 @@ require __DIR__ . '/../vendor/autoload.php';
 
 //$factory = new Factory();
 //$factory->run();
+
+//$abstractFactory = new AbstractFactory();
+//$abstractFactory->run();
