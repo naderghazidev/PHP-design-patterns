@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Strategy;
+namespace App\Behavioral\Strategy;
 
 class AESEncryptor implements Encryptor
 {

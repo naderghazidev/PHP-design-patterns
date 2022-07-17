@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Memento;
+namespace App\Behavioral\Memento;
 
 class DocumentState
 {

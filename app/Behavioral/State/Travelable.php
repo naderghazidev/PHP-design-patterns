@@ -1,6 +1,6 @@
 <?php
 
-namespace App\State;
+namespace App\Behavioral\State;
 
 interface Travelable
 {

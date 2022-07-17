@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\State;
+namespace App\Behavioral\State;
 
 class Transit implements Travelable
 {

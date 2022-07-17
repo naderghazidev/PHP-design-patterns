@@ -1,6 +1,6 @@
 <?php
 
-namespace App\TemplateMethod;
+namespace App\Behavioral\TemplateMethod;
 
 class MainWindow extends Window
 {

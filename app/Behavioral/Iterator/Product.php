@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Iterator;
+namespace App\Behavioral\Iterator;
 
 class Product
 {
