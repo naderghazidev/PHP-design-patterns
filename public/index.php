@@ -1,10 +1,7 @@
 <?php
 
 
-use App\Iterator\Iterator;
-use App\State\State;
-use App\Strategy\Strategy;
-use App\TemplateMethod\TemplateMethod;
+use App\Creational\Factory\Factory;
 
 require __DIR__ . '/../vendor/autoload.php';
 
@@ -23,3 +20,7 @@ require __DIR__ . '/../vendor/autoload.php';
 
 //$templateMethod=new TemplateMethod();
 //$templateMethod->run();
+
+
+//$factory = new Factory();
+//$factory->run();
