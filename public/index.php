@@ -19,6 +19,7 @@ require __DIR__ . '/../vendor/autoload.php';
 //$templateMethod=new TemplateMethod();
 //$templateMethod->run();
 
+# Creational
 
 //$factory = new Factory();
 //$factory->run();
@@ -34,3 +35,8 @@ require __DIR__ . '/../vendor/autoload.php';
 
 //$singleton = new Singleton();
 //$singleton->run();
+
+# Structural
+
+//$adapter=new Adapter();
+//$adapter->run();
