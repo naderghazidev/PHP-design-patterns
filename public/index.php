@@ -31,3 +31,6 @@ require __DIR__ . '/../vendor/autoload.php';
 
 //$prototype = new Prototype();
 //$prototype->run();
+
+//$singleton = new Singleton();
+//$singleton->run();
