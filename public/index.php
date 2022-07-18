@@ -28,3 +28,6 @@ require __DIR__ . '/../vendor/autoload.php';
 
 //$builder = new Builder();
 //$builder->run();
+
+//$prototype = new Prototype();
+//$prototype->run();
