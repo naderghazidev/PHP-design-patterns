@@ -40,3 +40,6 @@ require __DIR__ . '/../vendor/autoload.php';
 
 //$adapter=new Adapter();
 //$adapter->run();
+
+//$bridge=new Bridge();
+//$bridge->run();
