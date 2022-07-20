@@ -1,6 +1,8 @@
 <?php
 
 
+use App\Structural\Composite\Composite;
+
 require __DIR__ . '/../vendor/autoload.php';
 
 //$memento=new Memento();
@@ -43,3 +45,6 @@ require __DIR__ . '/../vendor/autoload.php';
 
 //$bridge=new Bridge();
 //$bridge->run();
+
+$composite=new Composite();
+$composite->run();
