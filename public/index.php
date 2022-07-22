@@ -49,3 +49,6 @@ require __DIR__ . '/../vendor/autoload.php';
 
 //$decorator = new Decorator();
 //$decorator->run();
+
+//$facade = new Facade();
+//$facade->run();
