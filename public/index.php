@@ -53,5 +53,8 @@ require __DIR__ . '/../vendor/autoload.php';
 //$facade = new Facade();
 //$facade->run();
 
-//$flyweight = new \App\Structural\Flyweight\Flyweight();
+//$flyweight = new Flyweight();
 //$flyweight->run();
+
+//$proxy = new Proxy();
+//$proxy->run();
