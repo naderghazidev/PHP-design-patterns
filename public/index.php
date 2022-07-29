@@ -3,22 +3,6 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-//$memento=new Memento();
-//$memento->run();
-
-//$state = new State();
-//$state->run();
-
-//$iterator = new Iterator();
-//$iterator->run();
-
-//$strategy = new Strategy();
-//$strategy->run();
-
-
-//$templateMethod=new TemplateMethod();
-//$templateMethod->run();
-
 # Creational
 
 //$factory = new Factory();
@@ -58,3 +42,23 @@ require __DIR__ . '/../vendor/autoload.php';
 
 //$proxy = new Proxy();
 //$proxy->run();
+
+# Behavioral
+
+//$memento=new Memento();
+//$memento->run();
+
+//$state = new State();
+//$state->run();
+
+//$iterator = new Iterator();
+//$iterator->run();
+
+//$strategy = new Strategy();
+//$strategy->run();
+
+//$templateMethod=new TemplateMethod();
+//$templateMethod->run();
+
+//$chainOfResponsibility = new ChainOfResponsibility();
+//$chainOfResponsibility->run();
