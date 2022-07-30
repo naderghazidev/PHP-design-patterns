@@ -62,3 +62,6 @@ require __DIR__ . '/../vendor/autoload.php';
 
 //$chainOfResponsibility = new ChainOfResponsibility();
 //$chainOfResponsibility->run();
+
+//$command = new Command();
+//$command->run();
